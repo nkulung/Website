@@ -9,16 +9,13 @@
 
 */
 
-@font-face {
-    font-family: 'Azurite'; /*a name to be used later*/
-    src: url('http://nkulung.github.io/Website/Azurite.tff'); /*URL to font*/
-}
+
 body {
 	width:90%;
 	background-color:#FFFFF
 	margin-left:auto;
 	margin-right:auto;
-	font-family: "Azurite";
+	font-family: 'Exo 2', sans-serif;
 }
 .fillcontainer {
 	width:100%;
@@ -30,7 +27,7 @@ body {
 	height:auto;
 	margin-left:auto;
 	margin-right:auto;
-	font-family: "Azurite";
+	font-family: 'Exo 2', sans-serif;
 }
 #banner {
 	width:100%;
@@ -76,7 +73,7 @@ body {
 	 -webkit-transition: border-bottom .5s;
 	 -webkit-transition: background-color .5s;
 	 border-bottom:6px solid #FC0;
-	 font-family: "Raleway", "Open Sans";
+	 font-family: 'Exo 2', sans-serif;
 }
 .navbar table a:hover {
 
