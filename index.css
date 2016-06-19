@@ -18,7 +18,7 @@ body {
 	background-color:#FFFFF
 	margin-left:auto;
 	margin-right:auto;
-	font-family: 'Azurite';
+	font-family: "Azurite";
 }
 .fillcontainer {
 	width:100%;
@@ -30,7 +30,7 @@ body {
 	height:auto;
 	margin-left:auto;
 	margin-right:auto;
-	font-family: "Raleway", "Open Sans";
+	font-family: "Azurite";
 }
 #banner {
 	width:100%;
