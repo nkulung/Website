@@ -113,18 +113,21 @@ body {
 }
 .bodyfill {
 
-	background-color:#FFFFF
+	background-color:#FFFFF;
+	width:100%;
 }
 
 .bodyfill p {
-	font-size: 30px;
-	width: 50%;
-	float:left;
-	margin-top:30px;
+	font-size: 26px;
+	width: 65%;
+	margin-top:0px;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
 }
 .bodyfill h2 {
 	float:left;
-	font-size:36px;
+	font-size:30px;
 	margin-bottom: 5px;
 }
 #rightimg {
@@ -132,4 +135,37 @@ body {
 	float:right;
 	margin-right: 120px;
 	display:inline-block;
+}
+#welcome {
+	height:auto;
+	display:inline-block;
+	margin-bottom: 20px;
+	
+}
+#d {
+	float:left;	
+	
+}
+#welcome p a {
+	text-decoration:none;
+	
+}
+#uri {
+	float:right;
+	width:30%
+}
+#s {
+	float:right;	
+	width:30%;
+	font-size:26px;
+	
+}
+#quad {
+margin-left: 40px;	
+	
+	
+}
+.middleLine {
+	border: 3px solid #000;	
+	
 }
